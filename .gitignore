@@ -1,0 +1,11 @@
+# Dépendances Node.js pour le backend
+backend/node_modules/
+
+# Dépendances Node.js pour le frontend
+frontend/node_modules/
+
+# Fichiers de configuration
+backend/.env
+
+# Fichiers de build du frontend (React)
+frontend/build/
